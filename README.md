@@ -14,5 +14,5 @@
     5.  Файлы в каталое "\devops-netology\terraform\.." под именем "override.tf" и "override.tf.json", а так же который оканчиваются на "_override.tf" и "_override.tf.json"
     6.  Файлы в каталое "\devops-netology\terraform\.." под именем ".terraformrc" и "terraform.rc"
 
-
+##NEW LINE FOR GIT
 
